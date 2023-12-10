@@ -3,7 +3,7 @@
 <!--
 **anishce/anishce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Azure Cloude and Azure Kubernetes Service
 - 🌱 I’m currently learning Azure Cloud
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about .NET, Azure Cloud, Kubernetes, Docker, RedHat OpenShift Container Platform
 - 📫 How to reach me: anish.cse7@gmail.com
 - ⚡ Fun fact: Life runs on Code.... 😄
--->
+
