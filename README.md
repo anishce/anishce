@@ -20,7 +20,7 @@ I'm result driven software professional with professional IT industry experience
 - 📫 How to reach me: <a href="https://github.com/anishce">GitHub</a>-->
 # Hi there! 👋
 
-I'm Anish, a passionate software professional with IT industries experience in development, design and implementation of software applications. Welcome to my GitHub profile!
+I'm Anish, a passionate software professional with extensive experience in development, design and implementation of software applications. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -32,11 +32,11 @@ I'm Anish, a passionate software professional with IT industries experience in d
 
 ## My Tech Stack
 
-- 💻 Programming Languages: [C#, Java, Go, Python, TypeScript, JavaScript]
+- 💻 Programming Languages: [C#, Java, TypeScript, JavaScript]
 - 🌐 Web Technologies: [React, Angular, Progressive Web Apps (PWAs), ASP.NET Core & MVC]
 - ☁️ Cloud Technologies: [Azure, AWS]
 - 📦 Container Technologies: [Azure Kubernetes Services (AKS), Kubernetes, and Docker]
-- 🌱 .NET Technologies: [.NET 6, .NET Core 3.1, .NET Standard, .NET Framework, EF Core, Dapper, LINQ, IIS, Kestrel, HTTP.sys, Tomcat]
+- 🌱 .NET Technologies: [.NET 6, .NET Core 3.1, .NET Standard, .NET Framework, EF Core, Dapper, LINQ, IIS, Kestrel, HTTP.sys]
 - 🌐 Web Service Technologies: [gRPC, ASP.NET Core Web API, WCF]
 - 💬 Messaging Technologies: [Kafka, MassTransit, RabbitMQ]
 - 🛢️ Database Technologies: [SQL Server, RavenDB, Cassandra DB, Couch DB and MongoDB]
