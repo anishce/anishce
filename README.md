@@ -52,7 +52,7 @@ I'm Anish, a passionate software professional with extensive experience in devel
 
 ## Connect with Me
 
-- 📫 How to reach me: [anish.cse7@gmail.com]
+<!--- 📫 How to reach me: [anish.cse7@gmail.com]-->
 - 🌐 GitHub: <a href="https://github.com/anishce">anishce</a>
 
 <!-- - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/)
