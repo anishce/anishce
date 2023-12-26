@@ -24,17 +24,17 @@ I'm Anish, a passionate software professional with extensive experience in devel
 
 ## About Me
 
-- 🚀 I’m currently working on Domain Oriented Microservices (DOMA), Azure Cloud, Kubernetes, and Docker.
+- 🚀 I’m currently working on Domain Oriented Microservices (DOMA), AWS, Azure, Kubernetes, and Docker.
 - 💡 I love exploring new technologies and tools.
-- 🌱 I’m currently learning Azure Cloud and AWS.
-- 👯 I’m looking to collaborate on open source projects, .NET, Microservices, DDD, Azure Cloud, AWS, Kubernetes, and Docker.
+- 🌱 I’m currently learning AWS, Azure and GCP.
+- 👯 I’m looking to collaborate on open source projects, .NET, Go, Microservices, DDD, AWS, Azure, GCP, Kubernetes, and Docker.
 - ⚡ Fun fact: Life runs on Code.... 😄
 
 ## My Tech Stack
 
 - 💻 Programming Languages: [C#, TypeScript, JavaScript]
 - 🌐 Web Technologies: [React, Angular, Progressive Web Apps (PWAs), ASP.NET Core & MVC]
-- ☁️ Cloud Technologies: [Azure, AWS]
+- ☁️ Cloud Technologies: [AWS, Azure, GCP]
 - 📦 Container Technologies: [Kubernetes, Docker, Azure Kubernetes Services (AKS) and Amazon EKS Cluster]
 - 🌱 .NET Technologies: [.NET 6, .NET Core 3.1, .NET Standard, .NET Framework, EF Core, Dapper, LINQ]
 - 🌐 Web Service Technologies: [gRPC, ASP.NET Core Web API, WCF]
