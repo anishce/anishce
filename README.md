@@ -41,7 +41,7 @@ I'm Anish, a passionate software professional with extensive experience in devel
 - 🛢️ Database Technologies: [SQL Server, RavenDB, Cassandra DB, Couch DB and MongoDB]
 - 💬 Messaging Technologies: [Kafka, MassTransit, RabbitMQ]
 - 🗄️ Caching Technologies: [AWS ElastiCache, Azure Redis Cache, Redis and Memcached]
-- 📱 Mobile Development: [Xamarin]
+- 📱 Mobile Development: [Xamarin, Flutter]
 - 🖥️ Desktop Development: [UWP, WPF, WinForms].
 
 
