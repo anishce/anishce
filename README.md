@@ -52,7 +52,7 @@ I'm Anish, a passionate software professional with extensive experience in devel
 - [Project 3]: Short description-->
 
 ## Connect with Me
-
+🌱 Always learning, always growing. Let's connect, collaborate, and code something amazing together! 💻✨
 <!--- 📫 How to reach me: [anish.cse7@gmail.com]-->
 - 🌐 GitHub: <a href="https://github.com/anishce">anishce</a>
 
@@ -60,3 +60,5 @@ I'm Anish, a passionate software professional with extensive experience in devel
 - 🐦 Follow me on [Twitter](https://twitter.com/yourusername) -->
 
 Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out. 😊
+
+Happy coding! 🌈
