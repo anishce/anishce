@@ -35,11 +35,12 @@ I'm Anish, a passionate software professional with extensive experience in devel
 - 💻 Programming Languages: [C#, Go, TypeScript, JavaScript]
 - 🌐 Web Technologies: [React, Angular, Progressive Web Apps (PWAs), ASP.NET Core & MVC]
 - ☁️ Cloud Technologies: [AWS, Azure, GCP]
-- 📦 Container Technologies: [Kubernetes, Docker, Azure Kubernetes Services (AKS) and Amazon EKS Cluster]
+- 📦 Container Technologies: [Kubernetes, Docker, Amazon EKS Cluster and Azure Kubernetes Services (AKS)]
 - 🌱 .NET Technologies: [.NET 8/7/6, .NET Core, .NET Standard, .NET Framework]
-- 🌐 Web Service Technologies: [gRPC, ASP.NET Core Web API, WCF]
-- 💬 Messaging Technologies: [Kafka, MassTransit, RabbitMQ]
+- 🌐 Web Service Technologies: [gRPC, REST, SOAP, WSDL, ASP.NET Core Web API, WCF]
 - 🛢️ Database Technologies: [SQL Server, RavenDB, Cassandra DB, Couch DB and MongoDB]
+- 💬 Messaging Technologies: [Kafka, MassTransit, RabbitMQ]
+- 🗄️ Caching Technologies: [AWS ElastiCache, Azure Redis Cache, Redis and Memcached]
 - 📱 Mobile Development: [Xamarin]
 - 🖥️ Desktop Development: [UWP, WPF, WinForms].
 
