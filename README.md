@@ -17,6 +17,7 @@ I'm result driven software professional with professional IT industry experience
 - 🌱 I’m currently learning Azure Cloud and AWS.
 - 👯 I’m looking to collaborate on .NET, Microservices, DDD.
 - 💬 Ask me about .NET, Microservices, DDD, TDD, Azure Cloud, Azure Kubernetes Services (AKS), Kubernetes, Docker.
+- ⚡ Fun fact: Life runs on Code.... 😄
 - 📫 How to reach me: <a href="https://github.com/anishce">GitHub</a>-->
 # Hi there! 👋
 
@@ -28,7 +29,8 @@ I'm Anish, a passionate software professional with extensive experience in devel
 - 💡 I love exploring new technologies and tools.
 - 🌱 I’m currently learning AWS, Azure and GCP.
 - 👯 I’m looking to collaborate on open source projects, .NET, Go, Microservices, DDD, AWS, Azure, GCP, Kubernetes, and Docker.
-- ⚡ Fun fact: Life runs on Code.... 😄
+- ⚡ Fun fact: I once solved a coding challenge in zero gravity. Well, maybe not zero gravity, but definitely with a cat on my lap, which is practically the same thing, right? 🐾💻 #CodingWithCats
+
 
 ## My Tech Stack
 
