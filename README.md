@@ -21,7 +21,7 @@ I'm result driven software professional with professional IT industry experience
 - 📫 How to reach me: <a href="https://github.com/anishce">GitHub</a>-->
 # Hi there! 👋
 
-I'm Anish, a passionate software professional with extensive experience in development, design and implementation of software applications. Welcome to my GitHub profile!
+I'm Anish, a passionate software techie with extensive experience in development, design and implementation of software applications. Welcome to my GitHub profile!
 
 ## About Me
 
