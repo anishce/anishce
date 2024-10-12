@@ -57,7 +57,7 @@ I'm Anish, a passionate software techie with extensive experience in development
 🌱 Always learning, always growing. Let's connect, collaborate, and code something amazing together! 💻✨
 <!--- 📫 How to reach me: [anish.cse7@gmail.com]-->
 - 🌐 GitHub: <a href="https://github.com/anishce">anishce</a>
-
+- ✉️ Gmail: anish.cse7@gmail.com 
 <!-- - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/)
 - 🐦 Follow me on [Twitter](https://twitter.com/yourusername) -->
 
