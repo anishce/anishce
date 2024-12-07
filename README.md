@@ -26,9 +26,9 @@ I'm Anish, a passionate software techie with extensive experience in development
 ## About Me
 
 - 🚀 I’m currently working on AWS, Azure, Domain Oriented Microservices (DOMA), High-Performance Applications & Microservices, Kubernetes, and Docker.
-- 💡 I love exploring new technologies and tools.
-- 🌱 I’m currently learning AWS, Azure and GCP.
-- 👯 I’m looking to collaborate on open source projects, DDD, Golang, Microservices, AWS, Azure, GCP, .NET, Kubernetes, and Docker.
+- 💡 I love code refactoring, code optimization, exploring new technologies and tools.
+- 🌱 I’m currently learning AWS and Azure.
+- 👯 I’m looking to collaborate on open source projects, DDD, Golang, Microservices, AWS, Azure, .NET, Kubernetes, and Docker.
 - ⚡ Fun fact: I once solved a coding challenge in zero gravity. Well, maybe not zero gravity, but definitely with a cat on my lap, which is practically the same thing, right? 🐾💻 #CodingWithCats
 
 
@@ -36,7 +36,7 @@ I'm Anish, a passionate software techie with extensive experience in development
 
 - 💻 Programming Languages: [C#, Golang, Python, TypeScript, JavaScript]
 - 🌐 Web Technologies: [React, Angular, Progressive Web Apps (PWAs), ASP.NET Core & MVC]
-- ☁️ Cloud Technologies: [AWS, Azure, GCP]
+- ☁️ Cloud Technologies: [AWS, Azure]
 - 📦 Container Technologies: [Kubernetes, Docker, Amazon EKS Cluster and Azure Kubernetes Services (AKS)]
 - 🌱 .NET Technologies: [.NET 8/7/6, .NET Core, .NET Standard, .NET Framework]
 - 🌐 Web Service Technologies: [GraphQL, gRPC, REST, SOAP, WSDL, Web API, WCF]
