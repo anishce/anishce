@@ -44,7 +44,7 @@ I'm Anish, a passionate software techie with extensive experience in development
 - 💬 Messaging Technologies: [Kafka, MassTransit, RabbitMQ]
 - 🗄️ Caching Technologies: [AWS ElastiCache, Azure Redis Cache, Redis and Memcached]
 - 📱 Mobile Development: [Xamarin, Flutter]
-- 🖥️ Desktop Development: [UWP, WPF, WinForms].
+- 🖥️ Desktop Development: [MAUI, UWP, WPF, WinForms].
 
 
 <!-- ## Projects
