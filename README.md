@@ -34,7 +34,7 @@ I'm Anish, a passionate software techie with extensive experience in development
 
 ## My Tech Stack
 
-- 💻 Programming Languages: [C#, Golang, Python, TypeScript, JavaScript]
+- 💻 Programming Languages: [C#, Golang, TypeScript, JavaScript]
 - 🌐 Web Technologies: [React, Angular, Progressive Web Apps (PWAs), ASP.NET Core & MVC]
 - ☁️ Cloud Technologies: [AWS, Azure]
 - 📦 Container Technologies: [Kubernetes, Docker, Amazon EKS Cluster and Azure Kubernetes Services (AKS)]
