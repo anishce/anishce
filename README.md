@@ -29,22 +29,21 @@ I'm Anish, a passionate software techie with extensive experience in development
 - 💡 I love code refactoring, code optimization, exploring new technologies and tools.
 - 🌱 I’m currently learning AWS and Azure.
 - 👯 I’m looking to collaborate on open source projects, DDD, Golang, Microservices, AWS, Azure, .NET, Kubernetes, and Docker.
-- ⚡ Fun fact: I once solved a coding challenge in zero gravity. Well, maybe not zero gravity, but definitely with a cat on my lap, which is practically the same thing, right? 🐾💻 #CodingWithCats
 
 
 ## My Tech Stack
 
 - 💻 Programming Languages: [C#, Golang, TypeScript, JavaScript]
 - 🌐 Web Technologies: [React, Angular, Progressive Web Apps (PWAs), ASP.NET Core & MVC]
-- ☁️ Cloud Technologies: [AWS, Azure]
-- 📦 Container Technologies: [Kubernetes, Docker, Amazon EKS Cluster and Azure Kubernetes Services (AKS)]
+- ☁️ Cloud Technologies: [Azure]
+- 📦 Container Technologies: [Kubernetes, Docker, Azure Kubernetes Services (AKS)]
 - 🌱 .NET Technologies: [.NET 8/7/6, .NET Core, .NET Standard, .NET Framework]
 - 🌐 Web Service Technologies: [GraphQL, gRPC, REST, SOAP, WSDL, Web API, WCF]
 - 🛢️ Database Technologies: [RavenDB, Cassandra DB, Couch DB, SQL Server and MongoDB]
 - 💬 Messaging Technologies: [Kafka, MassTransit, RabbitMQ]
-- 🗄️ Caching Technologies: [AWS ElastiCache, Azure Redis Cache, Redis and Memcached]
-- 📱 Mobile Development: [Xamarin, Flutter]
-- 🖥️ Desktop Development: [MAUI, UWP, WPF, WinForms].
+- 🗄️ Caching Technologies: [Redis, Azure Redis Cache and Memcached]
+- 📱 Mobile Development: [Xamarin]
+- 🖥️ Desktop Development: [UWP, WPF, WinForms].
 
 
 <!-- ## Projects
