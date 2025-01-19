@@ -25,9 +25,9 @@ I'm Anish, a passionate software techie with extensive experience in development
 
 ## About Me
 
-- 🚀 I’m currently working on Azure, Domain Oriented Microservices (DOMA), High-Performance Applications & Microservices, Kubernetes, and Docker.
+- 🚀 I’m currently working on Azure, .NET, Solution Architecture, High-Performance Applications & Domain Oriented Microservices (DOMA), Domain Driven Design, Kubernetes, and Docker.
 - 💡 I love code refactoring, code optimization, exploring new technologies and tools.
-- 🌱 I’m currently learning AWS and Azure.
+- 🌱 I’m currently learning Azure, AI and AWS.
 - 👯 I’m looking to collaborate on open source projects, .NET, DDD, Golang, Microservices, Azure, AWS, GCP, Kubernetes, and Docker.
 
 
