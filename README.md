@@ -34,13 +34,13 @@ I'm Anish, a passionate software techie with extensive experience in development
 ## My Tech Stack
 
 - 💻 Programming Languages: [C#, Golang, TypeScript, JavaScript]
-- 🌐 Web Technologies: [React, Angular, Progressive Web Apps (PWAs), ASP.NET Core & MVC]
-- ☁️ Cloud Technologies: [Azure]
+- 🌐 Web Technologies: [React, Angular, ASP.NET Core & MVC]
+- ☁️ Cloud Technologies: [Azure, AWS]
 - 📦 Container Technologies: [Kubernetes, Docker, Azure Kubernetes Services (AKS)]
 - 🌱 .NET Technologies: [.NET 8/7/6, .NET Core, .NET Standard, .NET Framework]
-- 🌐 Web Service Technologies: [GraphQL, gRPC, REST, SOAP, WSDL, Web API, WCF]
-- 🛢️ Database Technologies: [RavenDB, Cassandra DB, Couch DB, SQL Server and MongoDB]
-- 💬 Messaging Technologies: [Kafka, MassTransit, RabbitMQ]
+- 🌐 Web Service Technologies: [REST, gRPC, SOAP, WSDL, Web API, WCF]
+- 🛢️ Database Technologies: [SQL Server, MongoDB, Cassandra DB, Couch DB and RavenDB]
+- 💬 Messaging Technologies: [RabbitMQ, Kafka, MassTransit]
 - 🗄️ Caching Technologies: [Redis, Azure Redis Cache and Memcached]
 - 📱 Mobile Development: [Xamarin]
 - 🖥️ Desktop Development: [UWP, WPF, WinForms].
